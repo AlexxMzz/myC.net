@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\bin\Debug\FormatoMoneda.exe.config
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\bin\Debug\FormatoMoneda.exe
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\bin\Debug\FormatoMoneda.pdb
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\obj\Debug\FormatoMoneda.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\obj\Debug\FormatoMoneda.Form1.resources
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\obj\Debug\FormatoMoneda.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\obj\Debug\FormatoMoneda.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\obj\Debug\FormatoMoneda.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\obj\Debug\FormatoMoneda.exe
+C:\Users\vboxuser\Source\Repos\FormatoMoneda\obj\Debug\FormatoMoneda.pdb
