@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\bin\Debug\FORMATOHORA.exe.config
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\bin\Debug\FORMATOHORA.exe
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\bin\Debug\FORMATOHORA.pdb
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\obj\Debug\FORMATOHORA.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\obj\Debug\FORMATOHORA.Form1.resources
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\obj\Debug\FORMATOHORA.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\obj\Debug\FORMATOHORA.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\obj\Debug\FORMATOHORA.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\obj\Debug\FORMATOHORA.exe
+C:\Users\vboxuser\Source\Repos\FORMATOHORA\obj\Debug\FORMATOHORA.pdb
