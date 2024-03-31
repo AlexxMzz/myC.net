@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\bin\Debug\AutocompletadoComboBox.exe.config
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\bin\Debug\AutocompletadoComboBox.exe
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\bin\Debug\AutocompletadoComboBox.pdb
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\obj\Debug\AutocompletadoComboBox.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\obj\Debug\AutocompletadoComboBox.Form1.resources
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\obj\Debug\AutocompletadoComboBox.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\obj\Debug\AutocompletadoComboBox.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\obj\Debug\AutocompletadoComboBox.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\obj\Debug\AutocompletadoComboBox.exe
+C:\Users\vboxuser\Source\Repos\AutocompletadoComboBox\obj\Debug\AutocompletadoComboBox.pdb

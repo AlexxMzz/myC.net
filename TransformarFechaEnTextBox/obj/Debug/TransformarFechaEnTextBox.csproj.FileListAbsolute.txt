@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\bin\Debug\TransformarFechaEnTextBox.exe.config
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\bin\Debug\TransformarFechaEnTextBox.exe
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\bin\Debug\TransformarFechaEnTextBox.pdb
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\obj\Debug\TransformarFechaEnTextBox.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\obj\Debug\TransformarFechaEnTextBox.Form1.resources
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\obj\Debug\TransformarFechaEnTextBox.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\obj\Debug\TransformarFechaEnTextBox.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\obj\Debug\TransformarFechaEnTextBox.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\obj\Debug\TransformarFechaEnTextBox.exe
+C:\Users\vboxuser\Source\Repos\TransformarFechaEnTextBox\obj\Debug\TransformarFechaEnTextBox.pdb
