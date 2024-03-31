@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\bin\Debug\EscribirLongExactaTXT.exe.config
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\bin\Debug\EscribirLongExactaTXT.exe
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\bin\Debug\EscribirLongExactaTXT.pdb
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\obj\Debug\EscribirLongExactaTXT.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\obj\Debug\EscribirLongExactaTXT.Form1.resources
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\obj\Debug\EscribirLongExactaTXT.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\obj\Debug\EscribirLongExactaTXT.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\obj\Debug\EscribirLongExactaTXT.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\obj\Debug\EscribirLongExactaTXT.exe
+C:\Users\vboxuser\Source\Repos\EscribirLongExactaTXT\obj\Debug\EscribirLongExactaTXT.pdb
