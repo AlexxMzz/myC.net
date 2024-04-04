@@ -1,0 +1,17 @@
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ImportaExportaEXCEL.exe.config
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ImportaExportaEXCEL.exe
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ImportaExportaEXCEL.pdb
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ExcelDataReader.dll
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ExcelDataReader.pdb
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ExcelDataReader.xml
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaExportaEXCEL.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaExportaEXCEL.Form1.resources
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaExportaEXCEL.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaExportaEXCEL.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaExportaEXCEL.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaE.ED409D22.Up2Date
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaExportaEXCEL.exe
+C:\Users\vboxuser\Source\Repos\ImportaExportaEXCEL\obj\Debug\ImportaExportaEXCEL.pdb
