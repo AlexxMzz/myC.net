@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\bin\Debug\CREARyESCRIBIRunTxt.exe.config
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\bin\Debug\CREARyESCRIBIRunTxt.exe
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\bin\Debug\CREARyESCRIBIRunTxt.pdb
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\obj\Debug\CREARyESCRIBIRunTxt.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\obj\Debug\CREARyESCRIBIRunTxt.Form1.resources
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\obj\Debug\CREARyESCRIBIRunTxt.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\obj\Debug\CREARyESCRIBIRunTxt.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\obj\Debug\CREARyESCRIBIRunTxt.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\obj\Debug\CREARyESCRIBIRunTxt.exe
+C:\Users\vboxuser\Source\Repos\CREARyESCRIBIRunTxt\obj\Debug\CREARyESCRIBIRunTxt.pdb

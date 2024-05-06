@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\bin\Debug\ManipulacionTXT.exe.config
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\bin\Debug\ManipulacionTXT.exe
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\bin\Debug\ManipulacionTXT.pdb
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\obj\Debug\ManipulacionTXT.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\obj\Debug\ManipulacionTXT.Form1.resources
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\obj\Debug\ManipulacionTXT.Properties.Resources.resources
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\obj\Debug\ManipulacionTXT.csproj.GenerateResource.cache
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\obj\Debug\ManipulacionTXT.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\obj\Debug\ManipulacionTXT.exe
+C:\Users\vboxuser\Source\Repos\ManipulacionTXT\obj\Debug\ManipulacionTXT.pdb
